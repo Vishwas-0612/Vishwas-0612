@@ -19,7 +19,7 @@ My journey from the low-level efficiency of **C/C++** to the dynamic landscape o
 - ⚛️ **Building for the future:** Mastering server-side rendering and the powerful ecosystem of **Next.js**.
 
 - 🚀 **Let's Collaborate!** I'm always open to connecting with fellow developers and working on impactful projects.
-- 💡 **My "Hello, World!":** My coding journey wasn't a tutorial, it was a quest to build my own video game!
+- 💡 **My "Hello, World!":** My coding journey wasn't a tutorial; it was a quest to build my own video game!
 
 ---
 
@@ -103,19 +103,28 @@ My journey from the low-level efficiency of **C/C++** to the dynamic landscape o
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/Vishwas-0612/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vishwas-0612&show_icons=true&theme=tokyonight&icon_color=0077B5&include_all_commits=true&count_private=true" alt="Vishwas's GitHub Stats" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Vishwas-0612&show_icons=true&theme=tokyonight&icon_color=0077B5&include_all_commits=true&count_private=true" 
+          alt="Vishwas's GitHub Stats" 
+        />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Vishwas-0612/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas-0612&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas-0612&layout=compact&theme=tokyonight&langs_count=8" 
+          alt="Top Languages" 
+        />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Vishwas-0612/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwas-0612&bg_color=1a1b27&color=6495ED&line=6495ED&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+        <img 
+          src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwas-0612&bg_color=1a1b27&color=6495ED&line=6495ED&point=ffffff&area=true&hide_border=true" 
+          alt="Contribution Graph" 
+        />
       </a>
     </td>
   </tr>
