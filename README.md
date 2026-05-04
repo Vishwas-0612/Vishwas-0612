@@ -103,7 +103,7 @@ My journey from the low-level efficiency of **C/C++** to the dynamic landscape o
 
 <table align="center">
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://github.com/Vishwas-0612/github-readme-stats">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=Vishwas-0612&show_icons=true&theme=tokyonight&icon_color=0077B5&include_all_commits=true&count_private=true" 
@@ -118,7 +118,7 @@ My journey from the low-level efficiency of **C/C++** to the dynamic landscape o
           alt="Top Languages" 
         />
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://github.com/Vishwas-0612/github-readme-activity-graph">
         <img 
